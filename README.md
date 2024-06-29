@@ -28,5 +28,5 @@
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/Adalab/bda-modulo-3-evaluacion-final-LuanaMagnabosco.git
 
