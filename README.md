@@ -23,6 +23,7 @@
 - Python 3.x 
 - Pandas
 - Matplotlib o Seaborn (para visualizaciones)
+- Scipy
 
 ### Instalación⇣
 
